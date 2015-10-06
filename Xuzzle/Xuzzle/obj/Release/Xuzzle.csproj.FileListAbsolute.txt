@@ -1,0 +1,10 @@
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle\bin\Release\Xuzzle.dll
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle\bin\Release\Xuzzle.pdb
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle\bin\Release\Xamarin.Forms.Core.dll
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle\bin\Release\Xamarin.Forms.Platform.dll
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle\bin\Release\Xamarin.Forms.Xaml.dll
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle\bin\Release\Xamarin.Forms.Core.xml
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle\bin\Release\Xamarin.Forms.Xaml.xml
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle\obj\Release\Xuzzle.csprojResolveAssemblyReference.cache
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle\obj\Release\Xuzzle.dll
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle\obj\Release\Xuzzle.pdb

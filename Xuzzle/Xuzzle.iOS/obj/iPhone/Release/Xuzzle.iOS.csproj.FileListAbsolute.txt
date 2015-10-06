@@ -1,0 +1,12 @@
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhone\Release\FormsTemplateiOS.exe
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhone\Release\Xuzzle.dll
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhone\Release\Xuzzle.pdb
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhone\Release\Xamarin.Forms.Core.xml
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.xml
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhone\Release\optimized\
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhone\Release\Xuzzle.iOS.csprojResolveAssemblyReference.cache
+E:\Downloads\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhone\Release\FormsTemplateiOS.exe

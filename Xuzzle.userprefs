@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Xuzzle\Xuzzle.Android\Xuzzle.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.HT4B3JT02381" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v12.0\AppxPackage\Microsoft.AppXPackage.Targets">
+    <Files>
+      <File FileName="C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v12.0\AppxPackage\Microsoft.AppXPackage.Targets" Line="236" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
